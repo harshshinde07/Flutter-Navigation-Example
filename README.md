@@ -1,9 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Flutter Navigation Demo
 
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+A simple demo example to demonstrate the routing in Flutter with named routes, from Udemy course.
